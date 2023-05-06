@@ -1,4 +1,4 @@
-#👋 Hi, I'm Magnus Albers
+# 👋 Hi, I'm Magnus Albers
 
 ## A 💻 software developer with a passion for creating elegant solutions to complex problems.
 
