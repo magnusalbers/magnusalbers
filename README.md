@@ -15,3 +15,6 @@
 I'm equally comfortable building robust backend systems and engaging front-end applications. When I'm not coding, you can find me sharing my knowledge with others through my programming tutorials and live streams on various platforms 🎥.
 
 **Join me on my journey of continuous learning and innovation 🚀.**
+
+
+_Photo credit: Olaf Bjørnson, Ystad, 2022_
