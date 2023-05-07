@@ -17,4 +17,4 @@ I'm equally comfortable building robust backend systems and engaging front-end a
 **Join me on my journey of continuous learning and innovation 🚀.**
 
 
-_Photo credit: Olaf Bjørnson, Ystad, 2022_
+_Photo credit: [Olaf Bjørnson](https://okbj.uni.opensource.lab.gu.se/), Ystad, 2022_
