@@ -12,6 +12,12 @@
 - PHP 🐘
 - JavaScript/Typescript 🌐
 
+### Work
+
+- [SWELAB](swelab.uni.gu.se), ML Research - 2021
+- [Peters & Myers](https://petersmyersrsl.nl/) Research - 2023
+- [FvH](https://felixvonhagen.com/) AI Marketing
+
 I'm equally comfortable building robust backend systems and engaging front-end applications. When I'm not coding, you can find me sharing my knowledge with others through my programming tutorials and live streams on various platforms 🎥.
 
 **Join me on my journey of continuous learning and innovation 🚀.**
